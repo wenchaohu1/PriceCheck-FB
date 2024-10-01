@@ -5,6 +5,9 @@
 
 import SwiftUI
 // import Firebase modules here
+import Firebase
+import FirebaseFirestore
+import FirebaseCore
 
 
 class AppDelegate: NSObject, UIApplicationDelegate {
